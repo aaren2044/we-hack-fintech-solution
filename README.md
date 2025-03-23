@@ -145,3 +145,9 @@ Made with ❤️ by **Team Send Nodes**
 ✅ **Scalability** – Potential to expand into a nationwide digital lending platform.  
 
 🚀 **Empowering millions of micro-entrepreneurs with smarter, faster, and more accessible financial services!**
+
+---
+
+## Running the Project ##
+npm install 
+npm start
