@@ -4,6 +4,30 @@
 
 Developed by **Team Send Nodes** for **We-Hack Hackathon**
 
+---
+
+## 🎥 Demo & Screenshots
+
+📌 [YouTube Demo Link](https://youtu.be/QIS0s-PDumI)  
+🎨 **Screenshots:**
+
+### Landing Page  
+![Landing Page](https://github.com/user-attachments/assets/7ddd5051-dfe6-49a7-adc8-973a3eb6d685)
+
+### Dashboard  
+![Dashboard](https://github.com/user-attachments/assets/f39bc77e-3edc-460c-b544-292fac6ad574)
+
+### Community Forum  
+![Community Forum](https://github.com/user-attachments/assets/8001200a-9c3a-41cd-aaff-948ccad847b1)
+
+### Microfinance Locator  
+![Microfinance Locator](https://github.com/user-attachments/assets/d416f65d-d1f8-43fc-9367-54d7e6d944ba)
+
+### AI Calculator (4 Features in One)  
+![AI Calculator](https://github.com/user-attachments/assets/088830df-772a-4edd-9c26-d2408948c054)
+
+---
+
 ## 📌 Overview
 
 Small businesses struggle with credit access, slow loan approvals, and financial illiteracy, limiting their growth. **FinStart** is an AI-driven microfinance solution that provides:
