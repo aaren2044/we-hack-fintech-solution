@@ -1,0 +1,28 @@
+[
+    {
+        "user_id": 5892779260,
+        "details": "**Name:** Abdussami Qazi\n**Email:** qazisami76@gmail.com\n**Loan Amount:** 1,00,000 rupees\n**Purpose:** Expanding my textile business\n**Additional details:** None provided\n",
+        "eligibility": "Not Eligible.  Insufficient information.  The loan amount and purpose are provided, but crucial details like the applicant's income, credit history, and business financials are missing.  These are necessary to assess eligibility.\n"
+    },
+    {
+        "user_id": 5892779260,
+        "application": "Abdussami 100000 50000 800",
+        "approval_result": "❌ Invalid loan application format. Please send details as:\nName, Income, LoanAmount, CreditScore (optional)"
+    },
+    {
+        "user_id": 5892779260,
+        "application": "John Doe, 50000, 10000, 750",
+        "approval_result": "✅ Loan Approved!"
+    },
+    {
+        "user_id": 5892779260,
+        "application": "Abdussami, 10000000, 50000, 650",
+        "approval_result": "✅ Loan Approved!"
+    },
+    {
+        "user_id": 5892779260,
+        "application": "Abdussami, qazisami76@gmail.com, 10000, 5000, 750",
+        "approval_result": "✅ Loan Approved!",
+        "denial_reason": null
+    }
+]
